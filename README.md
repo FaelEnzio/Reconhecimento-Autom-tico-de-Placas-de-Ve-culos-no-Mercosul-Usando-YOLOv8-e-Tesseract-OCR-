@@ -1,0 +1,1 @@
+# Reconhecimento-Autom-tico-de-Placas-de-Ve-culos-no-Mercosul-Usando-YOLOv8-e-Tesseract-OCR-
